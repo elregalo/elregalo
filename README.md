@@ -1,4 +1,4 @@
-### Adios amigo, I'm <a href="https://moobikabelo.xyz" target="_blank">El Regalo</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hola amigo, I'm <a href="https://moobikabelo.xyz" target="_blank">El Regalo</a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/moobi-kabelo)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://moobikabelo.xyz)
@@ -7,19 +7,19 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=elregalo.elregalo)
 
-I am a backend software engineer and project manager. I love programming, and listening to music.
+I am a backend developer and project manager. I love programming, and listening to music.
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+As a backend developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
 <img align="right" alt="GIF" src="https://github.com/elregalo/elregalo/blob/master/coding.gif?raw=true" width="408" height="318" />
 
 **Talking about Personal Stuffs:**
 
-- 💼 FrontEnd Engineer and Project Manager at [Afridek](https://afridek.com/)
+- 💼 Backend developer and Project Manager at [Afridek](https://afridek.com/)
 - 👨🏻‍💻 I’m currently working on a email chat bot;
 - 🚀 I’m currently learning TypeScript, Linux, Application Security, Project Management and PenTest;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: giftmoobi@gmail.com;
+
 
 </br>
 
