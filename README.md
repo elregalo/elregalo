@@ -18,6 +18,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 💼 FrontEnd Engineer and Project Manager at [Afridek](https://afridek.com/)
 - 👨🏻‍💻 I’m currently working on a email chat bot;
 - 🚀 I’m currently learning TypeScript, Linux, Application Security, Project Management and PenTest;
+- 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: giftmoobi@gmail.com;
 
 </br>
