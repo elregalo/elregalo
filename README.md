@@ -1,22 +1,24 @@
-### Hola amigo, I'm <a href="https://moobikabelo.xyz" target="_blank">Moobi Kabelo</a>
+### Hola amigo, I'm <a href="https://elregalo.me" target="_blank">Moobi Kabelo <elregalo></a>
 
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://elregalo.me/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.elregalo.me)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/moobi_kabelo/)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=elregalo.elregalo)
 
-I am a backend developer and project manager. I love programming, and listening to music.
+I am a Software Developer, Project Manager and Cyber Security enthusiast. I love programming, and listening to music more of a downer.
 
-As a backend developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
-
-<img align="right" alt="GIF" src="https://github.com/elregalo/elregalo/blob/master/coding.gif?raw=true" width="408" height="318" />
+As a Software Developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+ 
+<p align="center">
+<img align="right" alt="" src="https://github.com/elregalo/elregalo/blob/master/coding.gif?raw=true" width="408" height="318" />
+</p>
 
 **Talking about Personal Stuffs:**
 
-- 💼 Backend developer and Project Manager at [Afridek](https://afridek.com/)
-- 👨🏻‍💻 I’m currently working on a email chat bot;
-- 🚀 I’m currently learning TypeScript, Linux, Application Security, Project Management and PenTest;
-- 💬 Ask me about anything, I am happy to help;
+- 💼 Software Developer and Project Manager at [Afridek](https://afridek.com/)
+- 👨🏻‍💻 I’m currently working on a a NodeJs REST API [CommerceArch](https://github.com/elregalo/commerce-arch)
+- 🚀 I’m currently learning C++, C, Linux,  Project Management and Cyber Security
+- 💬 Ask me about anything, I am happy to help. [Email](giftmoobi@gmail.com)
 
 
 </br>
@@ -50,14 +52,14 @@ As a backend developer, I enjoy using my obsessive attention to detail, my unequ
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="20" height="20"/>
           
-📊 **This Week I Spent My Time On:**
+📊 **My Skills:**
 
 ```text
-JavaScript          1 hrs           ████████████████████░░░░░   79.58 %
-Project Management  1 hrs 45 mins   ██████████████████████▒░░   13.93 %
-NodeJs              45 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   05.70 %
-MongoDb             30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-Other               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+JavaScript   ████████████████████░░░░░   79.58 %
+NodeJs       ██████████████████████▒░░   89 %
+ExpressJs    ████████████████████░░░░░   70%
+C            ███████░░░░░░░░░░░░░░░░░░   45%
+C++          ████░░░░░░░░░░░░░░░░░░░░░   25%
 ```
 
 📈 **My GitHub Stats:**
