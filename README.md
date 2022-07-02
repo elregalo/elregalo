@@ -7,7 +7,7 @@
 
 I am a Software Developer, Project Manager and Cyber Security enthusiast. I love programming, and listening to music more of a downer.
 
-As a Software Developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
  
 <p align="center">
 <img align="right" alt="" src="https://github.com/elregalo/elregalo/blob/master/coding.gif?raw=true" width="408" height="318" />
