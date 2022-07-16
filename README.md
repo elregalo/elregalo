@@ -16,7 +16,7 @@ I enjoy using my obsessive attention to detail, my unequivocal love for making t
 **Talking about Personal Stuffs:**
 
 - 💼 Software Developer and Project Manager at [Afridek](https://afridek.com/)
-- 👨🏻‍💻 I’m currently working on a a NodeJs REST API [CommerceArch](https://github.com/elregalo/commerce-arch)
+- 👨🏻‍💻 I’m currently working on a a eComemrce REST API [Stacked](https://github.com/Stacked-Commerce/Stacked)
 - 🚀 I’m currently learning C++, C, Linux,  Project Management and Cyber Security
 - 💬 Ask me about anything, I am happy to help. [Email](giftmoobi@gmail.com)
 
